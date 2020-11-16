@@ -1,0 +1,17 @@
+.social {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+  color: white;
+}
+
+.social a {
+  text-decoration: none;
+  color: #1EDD88;
+  font-size: 28px;
+}
+
+.social p {
+  margin-top: 15px;
+  opacity: 0.6;
+}
